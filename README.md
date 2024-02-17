@@ -2,9 +2,6 @@
 New Repo 
 <br>
 Author - Raj (Personal)
-<<<<<<< HEAD
-<p>Removing all previosly added lines</p>
-=======
 <p>New Line</p>
 
 <p>Adding new line from develep branch</p>
@@ -25,4 +22,3 @@ Author - Raj (Personal)
 <p>Adding new line from origin main branch again 03</p>
 
 <p>Adding new line from origin test branch </p>
->>>>>>> test
